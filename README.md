@@ -1,4 +1,4 @@
-# Các Dự Án Cơ Bản Web Bằng HTML, CSS, JavaScript
+# Các Dự Án Cơ Bản (Mini) Web Bằng HTML, CSS, JavaScript
 
 1. **DỰ ÁN #1:** *Đồng Hồ*
 
