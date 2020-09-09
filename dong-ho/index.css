@@ -1,0 +1,21 @@
+* {
+    margin: 0 auto;
+    padding: 0px;
+    box-sizing: border-box;
+  }
+  body {
+    background-color: black;
+  }
+  
+  div.container{
+    left: 50%;
+    top: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    background-color: black;
+    color: #17D4FE;
+    font-size: 60px;
+    font-family: Orbitron;
+    letter-spacing: 7px;
+    font-weight: 500;
+  }
